@@ -1,15 +1,11 @@
-# Basic Sample Hardhat Project
+# Wave Portal DApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+\_\_
 
-Try running some of the following tasks:
+Interact with it live: https://wave-dapp.netlify.app/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+\_\_
+
+See the Smart Contract on Etherscan: https://rinkeby.etherscan.io/address/0x17920cDc894B92F61c57a46AdbCdd118e22ddE90
+
+\_\_
